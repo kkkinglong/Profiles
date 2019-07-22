@@ -1,0 +1,7 @@
+# > Agent
+USER-AGENT,TeamViewer*
+USER-AGENT,TIM*
+
+# > Software
+DOMAIN-SUFFIX,markeditor.com
+DOMAIN-SUFFIX,pdawiki.com
