@@ -1,0 +1,30 @@
+# > Bilibili
+USER-AGENT,*bili*, 🍻 VideosCN
+DOMAIN-KEYWORD,bilibili, 🍻 VideosCN
+DOMAIN-SUFFIX,acg.tv, 🍻 VideosCN
+DOMAIN-SUFFIX,acgvideo.com, 🍻 VideosCN
+DOMAIN-SUFFIX,b23.tv, 🍻 VideosCN
+DOMAIN-SUFFIX,biliapi.com, 🍻 VideosCN
+DOMAIN-SUFFIX,biliapi.net, 🍻 VideosCN
+DOMAIN-SUFFIX,bilibili.com, 🍻 VideosCN
+DOMAIN-SUFFIX,biligame.com, 🍻 VideosCN
+DOMAIN-SUFFIX,biligame.net, 🍻 VideosCN
+DOMAIN-SUFFIX,bilivideo.com, 🍻 VideosCN
+DOMAIN-SUFFIX,hdslb.com, 🍻 VideosCN
+DOMAIN-SUFFIX,im9.com, 🍻 VideosCN
+
+# > IQIYI
+USER-AGENT,QIYI*, 🍻 VideosCN
+USER-AGENT,iQiYi*, 🍻 VideosCN
+DOMAIN-KEYWORD,qiyi, 🍻 VideosCN
+DOMAIN-SUFFIX,qy.net, 🍻 VideosCN
+
+# > letv
+DOMAIN-SUFFIX,api.mob.app.letv.com, 🍻 VideosCN
+
+# > MOO
+USER-AGENT,MOO*, 🍻 VideosCN
+USER-AGENT,TencentMidasConnect*, 🍻 VideosCN
+
+# > Tencent Video
+DOMAIN-SUFFIX,vv.video.qq.com, 🍻 VideosCN
