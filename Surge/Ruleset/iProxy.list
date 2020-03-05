@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ankiweb.net
 PROCESS-NAME,Microsoft AutoUpdate
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,charliemonroesoftware.com
 
 # > JP
 DOMAIN-SUFFIX,amazon.co.jp
