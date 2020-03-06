@@ -1,4 +1,5 @@
 # > Software
+PROCESS-NAME,Microsoft AutoUpdate
 DOMAIN-SUFFIX,folivora.ai
 DOMAIN-SUFFIX,registry.npmjs.org
 DOMAIN-SUFFIX,sanfrancisco.kapeli.com
@@ -7,7 +8,7 @@ DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ankiweb.net
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,charliemonroesoftware.com
-PROCESS-NAME,Microsoft AutoUpdate
+DOMAIN-SUFFIX,markeditor.com
 
 # > JP
 DOMAIN-SUFFIX,amazon.co.jp
