@@ -1,8 +1,6 @@
-
-# Client
 # > Proxy
-PROCESS-NAME,v2ray
-PROCESS-NAME,ss-local
+# PROCESS-NAME,v2ray
+# PROCESS-NAME,ss-local
 
 # > Download
 PROCESS-NAME,aria2c

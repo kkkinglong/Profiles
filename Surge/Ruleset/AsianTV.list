@@ -1,30 +1,30 @@
 # > Bilibili
-USER-AGENT,*bili*, 🍻 VideosCN
-DOMAIN-KEYWORD,bilibili, 🍻 VideosCN
-DOMAIN-SUFFIX,acg.tv, 🍻 VideosCN
-DOMAIN-SUFFIX,acgvideo.com, 🍻 VideosCN
-DOMAIN-SUFFIX,b23.tv, 🍻 VideosCN
-DOMAIN-SUFFIX,biliapi.com, 🍻 VideosCN
-DOMAIN-SUFFIX,biliapi.net, 🍻 VideosCN
-DOMAIN-SUFFIX,bilibili.com, 🍻 VideosCN
-DOMAIN-SUFFIX,biligame.com, 🍻 VideosCN
-DOMAIN-SUFFIX,biligame.net, 🍻 VideosCN
-DOMAIN-SUFFIX,bilivideo.com, 🍻 VideosCN
-DOMAIN-SUFFIX,hdslb.com, 🍻 VideosCN
-DOMAIN-SUFFIX,im9.com, 🍻 VideosCN
+USER-AGENT,*bili*
+DOMAIN-KEYWORD,bilibili
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,im9.com
 
 # > IQIYI
-USER-AGENT,QIYI*, 🍻 VideosCN
-USER-AGENT,iQiYi*, 🍻 VideosCN
-DOMAIN-KEYWORD,qiyi, 🍻 VideosCN
-DOMAIN-SUFFIX,qy.net, 🍻 VideosCN
+USER-AGENT,QIYI*
+USER-AGENT,iQiYi*
+DOMAIN-KEYWORD,qiyi
+DOMAIN-SUFFIX,qy.net
 
 # > letv
-DOMAIN-SUFFIX,api.mob.app.letv.com, 🍻 VideosCN
+DOMAIN-SUFFIX,api.mob.app.letv.com
 
 # > MOO
-USER-AGENT,MOO*, 🍻 VideosCN
-USER-AGENT,TencentMidasConnect*, 🍻 VideosCN
+USER-AGENT,MOO*
+USER-AGENT,TencentMidasConnect*
 
 # > Tencent Video
-DOMAIN-SUFFIX,vv.video.qq.com, 🍻 VideosCN
+DOMAIN-SUFFIX,vv.video.qq.com
