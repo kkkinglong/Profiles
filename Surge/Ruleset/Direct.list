@@ -1,3 +1,6 @@
+# > Website
+DOMAIN-SUFFIX,time.is
+
 # > Agent
 USER-AGENT,TeamViewer*
 USER-AGENT,TIM*
