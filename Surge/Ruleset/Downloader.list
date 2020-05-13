@@ -1,4 +1,4 @@
-# > Proxy
+# > Proxy plugin
 # PROCESS-NAME,v2ray
 # PROCESS-NAME,ss-local
 
@@ -12,3 +12,7 @@ PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
+
+# > Xunlei
+USER-AGENT,%E8%BF%85%E9%9B%B7
+DOMAIN-SUFFIX,xunlei.com
