@@ -9,8 +9,6 @@ DOMAIN-SUFFIX,ankiweb.net
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,charliemonroesoftware.com
 DOMAIN-SUFFIX,markeditor.com
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
 
 # > JP
 DOMAIN-SUFFIX,amazon.co.jp
@@ -22,4 +20,4 @@ DOMAIN-SUFFIX,wikihow.com
 DOMAIN-SUFFIX,pythonprogramming.net
 DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,projectpokemon.org
-DOMAIN-SUFFIX,audiocontentdownload.apple.com
+# >> DOMAIN-SUFFIX,audiocontentdownload.apple.com
