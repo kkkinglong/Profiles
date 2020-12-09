@@ -7,3 +7,7 @@ USER-AGENT,TIM*
 
 # > Software
 DOMAIN-SUFFIX,pdawiki.com
+
+# > Other
+DOMAIN-KEYWORD,biliplus
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
