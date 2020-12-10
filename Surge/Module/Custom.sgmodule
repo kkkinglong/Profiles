@@ -1,0 +1,5 @@
+#!name=Others
+#!desc=排除域名
+
+[MITM]
+hostname = %INSERT% -api.weibo.cn
