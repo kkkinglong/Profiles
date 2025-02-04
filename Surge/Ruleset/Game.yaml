@@ -1,0 +1,20 @@
+# > Games
+
+payload:
+  - DOMAIN-SUFFIX,pokerogue.net
+  - USER-AGENT,pokemonhome*
+  - DOMAIN-SUFFIX,nintendo.com
+  - DOMAIN-SUFFIX,nintendo.com.hk
+  - DOMAIN-SUFFIX,nintendo.jp
+  - DOMAIN-SUFFIX,nintendo.co.jp
+  - DOMAIN-SUFFIX,nintendo.net
+  - DOMAIN-SUFFIX,nintendowifi.net
+  - DOMAIN-SUFFIX, ns.exitgames.com
+  - USER-AGENT, *SKQUEST*
+  - DOMAIN-SUFFIX, hangame.com
+  - OR, ((IP-CIDR,103.194.108.197/24), (IP-CIDR,103.194.108.199/24), (IP-CIDR,103.194.108.200/24))
+  - DOMAIN-SUFFIX,so-net.tw
+  - DOMAIN-SUFFIX,yuanshen.com
+  - DOMAIN-SUFFIX,hoyoverse.com
+  - DOMAIN-SUFFIX,hoyolab.com
+  - DOMAIN-SUFFIX,dutils.com

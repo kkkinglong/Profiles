@@ -1,0 +1,8 @@
+# > Reject
+
+payload:
+  - DOMAIN-SUFFIX, zlsdk.1rtb.net
+  - DOMAIN-SUFFIX, audid-api.taobao.com
+  - DOMAIN-SUFFIX, nenmlosa.info
+  - DOMAIN-SUFFIX, sub2.avgle.com
+
