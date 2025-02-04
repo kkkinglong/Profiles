@@ -1,3 +1,21 @@
+# > General
+DOMAIN-SUFFIX,newsela.com
+DOMAIN-SUFFIX,wikihow.com
+DOMAIN-SUFFIX,pythonprogramming.net
+DOMAIN-SUFFIX,files.pythonhosted.org
+DOMAIN-SUFFIX,projectpokemon.org
+DOMAIN-KEYWORD,52poke
+DOMAIN-SUFFIX,ifun.tv
+DOMAIN-SUFFIX,3dmgame.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,agefans.tv
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com
+
+# > JP
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,gavo.t.u-tokyo.ac.jp
+
 # > Software
 PROCESS-NAME,Microsoft AutoUpdate
 DOMAIN-SUFFIX,folivora.ai
@@ -12,14 +30,6 @@ DOMAIN-SUFFIX,markeditor.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,nssurge.com
-
-# > JP
-DOMAIN-SUFFIX,amazon.co.jp
-DOMAIN-SUFFIX,gavo.t.u-tokyo.ac.jp
-
-# > Other
-DOMAIN-SUFFIX,newsela.com
-DOMAIN-SUFFIX,wikihow.com
-DOMAIN-SUFFIX,pythonprogramming.net
-DOMAIN-SUFFIX,files.pythonhosted.org
-DOMAIN-SUFFIX,projectpokemon.org
+DOMAIN-SUFFIX,bjango.com
+DOMAIN-SUFFIX,dmlaa.com
+DOMAIN-SUFFIX,downloads.pdfexpert.com

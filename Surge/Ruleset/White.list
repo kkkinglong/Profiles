@@ -1,4 +1,4 @@
-# > WhiteList
+# >> WhiteList
 
 # > General
 USER-AGENT,archero*
@@ -18,15 +18,3 @@ DOMAIN,fonts.gstatic.com // Google Fonts API
 DOMAIN,mtalk.google.com // Firebase Cloud Messaging
 DOMAIN,translate.googleapis.com
 DOMAIN,update.googleapis.com
-
-# > General
-DOMAIN-SUFFIX, bdtj.tagtic.cn
-
-# > Alibaba
-DOMAIN,log.mmstat.com
-DOMAIN,sycm.mmstat.com
-
-# > Tencent
-DOMAIN,fairplay.l.qq.com
-DOMAIN,livew.l.qq.com
-DOMAIN,vd.l.qq.com
