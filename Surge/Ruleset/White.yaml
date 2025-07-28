@@ -1,5 +1,3 @@
-# > WhiteList
-
 payload:
   - USER-AGENT,archero*
   - USER-AGENT,coffeecorp*

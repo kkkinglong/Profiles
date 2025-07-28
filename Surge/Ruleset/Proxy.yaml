@@ -1,5 +1,3 @@
-# > Proxy
-
 payload:
   - DOMAIN-SUFFIX,newsela.com
   - DOMAIN-SUFFIX,wikihow.com
@@ -31,4 +29,3 @@ payload:
   - DOMAIN-SUFFIX,bjango.com
   - DOMAIN-SUFFIX,dmlaa.com
   - DOMAIN-SUFFIX,downloads.pdfexpert.com
-  - DOMAIN-SUFFIX,fastly.steamstatic.com
