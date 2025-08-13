@@ -10,9 +10,10 @@ payload:
   - DOMAIN-SUFFIX, ns.exitgames.com
   - USER-AGENT, *SKQUEST*
   - DOMAIN-SUFFIX, hangame.com
-  - OR, ((IP-CIDR,103.194.108.197/24), (IP-CIDR,103.194.108.199/24), (IP-CIDR,103.194.108.200/24))
+  - OR, ((IP-CIDR,103.194.108.197/24,no-resolve), (IP-CIDR,103.194.108.199/24,no-resolve), (IP-CIDR,103.194.108.200/24,no-resolve))
   - DOMAIN-SUFFIX,so-net.tw
   - DOMAIN-SUFFIX,yuanshen.com
   - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,dutils.com
+  - DOMAIN-SUFFIX,video.fastly.steamstatic.com
