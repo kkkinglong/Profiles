@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,dutils.com
   - DOMAIN-SUFFIX,video.fastly.steamstatic.com
+  - DOMAIN-SUFFIX,store.fastly.steamstatic.com
