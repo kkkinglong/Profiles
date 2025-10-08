@@ -18,3 +18,5 @@ payload:
   - DOMAIN-SUFFIX,dutils.com
   - DOMAIN-SUFFIX,video.fastly.steamstatic.com
   - DOMAIN-SUFFIX,store.fastly.steamstatic.com
+  - PROCESS-NAME,Diablo IV.exe
+  - PROCESS-PATH,H:\SteamLibrary\steamapps\common\Diablo IV\Diablo IV.exe
