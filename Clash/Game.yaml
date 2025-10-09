@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,store.fastly.steamstatic.com
   - PROCESS-NAME,Diablo IV.exe
   - PROCESS-PATH,H:\SteamLibrary\steamapps\common\Diablo IV\Diablo IV.exe
+  - PROCESS-NAME,GenshinImpact.exe
