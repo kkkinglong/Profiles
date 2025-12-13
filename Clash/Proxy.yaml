@@ -13,7 +13,6 @@ payload:
   - DOMAIN-SUFFIX,trellocdn.com
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,gavo.t.u-tokyo.ac.jp
-  - PROCESS-NAME,Microsoft AutoUpdate
   - DOMAIN-SUFFIX,folivora.ai
   - DOMAIN-SUFFIX,registry.npmjs.org
   - DOMAIN-SUFFIX,sanfrancisco.kapeli.com
@@ -30,3 +29,13 @@ payload:
   - DOMAIN-SUFFIX,dmlaa.com
   - DOMAIN-SUFFIX,downloads.pdfexpert.com
   - DOMAIN-SUFFIX,gofile.io
+  - PROCESS-NAME,Microsoft AutoUpdate
+  - DOMAIN-SUFFIX,fastly.steamstatic.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN,store.steampowered.com
+  - DOMAIN,api.steampowered.com
+  - DOMAIN,help.steampowered.com
+  - DOMAIN,login.steampowered.com
+  - DOMAIN,checkout.steampowered.com
+  - DOMAIN-SUFFIX,immersivetranslate.com

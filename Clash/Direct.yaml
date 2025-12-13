@@ -16,4 +16,28 @@ payload:
   - DOMAIN-SUFFIX,3dmgame.com
   - IP-CIDR,19.88.0.0/16,no-resolve
   - PROCESS-NAME,DNF.exe
-
+  - DOMAIN-SUFFIX,feikuai.tv
+  - DOMAIN-SUFFIX,ncat22.com
+  - DOMAIN,ptlogin2.qq.com
+  - DOMAIN,ptlogin.qq.com
+  - DOMAIN,ssl.ptlogin2.qq.com
+  - PROCESS-NAME,CrossProxy.exe,no-resolve
+  - PROCESS-NAME,CrossProxy.exe,force-ipv4,no-resolve
+  - PROCESS-NAME,DNF.exe,no-resolve
+  - PROCESS-NAME,start.exe,no-resolve
+  - PROCESS-NAME,TCLS.exe,no-resolve
+  - PROCESS-NAME,QQLogin.exe,no-resolve
+  - PROCESS-NAME,QGuard.exe,no-resolve"
+  - PROCESS-NAME,TP3Helper.exe,no-resolve"
+  - PROCESS-NAME,Tenio.exe,no-resolve
+  - PROCESS-NAME,Wegame.exe,no-resolve
+  - PROCESS-NAME,WeGameApp.exe,no-resolve
+  - DOMAIN-SUFFIX,qq.com,no-resolve
+  - DOMAIN-SUFFIX,tencent.com,no-resolve
+  - DOMAIN-SUFFIX,dnf.qq.com,no-resolve
+  - DOMAIN-SUFFIX,game.qq.com,no-resolve
+  - DOMAIN-SUFFIX,gcloud.qq.com,no-resolve
+  - DOMAIN-SUFFIX,tcdn.qq.com,no-resolve
+  - DOMAIN-SUFFIX,igame.qq.com,no-resolve
+  - DOMAIN-SUFFIX,wegame.com,no-resolve
+  - DOMAIN-SUFFIX,wegame.com.cn,no-resolve
