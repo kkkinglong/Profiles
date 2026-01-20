@@ -6,8 +6,6 @@ payload:
   - DOMAIN-SUFFIX, apple-finance.query.yahoo.com
   - DOMAIN-SUFFIX,time.is
   - DOMAIN-SUFFIX,qdm8.com
-  - USER-AGENT,TeamViewer*
-  - USER-AGENT,TIM*
   - DOMAIN-SUFFIX,pdawiki.com
   - DOMAIN-SUFFIX,mihoyo.com
   - DOMAIN-SUFFIX,pdfexpert.com

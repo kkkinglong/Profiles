@@ -1,8 +1,4 @@
 payload:
-  - USER-AGENT,archero*
-  - USER-AGENT,coffeecorp*
-  - USER-AGENT,Coffee%20Corp*
-  - USER-AGENT,restaurant-mobile*
   - DOMAIN,app.adjust.com
   - DOMAIN-SUFFIX,blog.google
   - DOMAIN-SUFFIX,googletraveladservices.com

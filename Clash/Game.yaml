@@ -1,6 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,pokerogue.net
-  - USER-AGENT,pokemonhome*
   - DOMAIN-SUFFIX,nintendo.com
   - DOMAIN-SUFFIX,nintendo.com.hk
   - DOMAIN-SUFFIX,nintendo.jp
@@ -8,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,nintendo.net
   - DOMAIN-SUFFIX,nintendowifi.net
   - DOMAIN-SUFFIX, ns.exitgames.com
-  - USER-AGENT, *SKQUEST*
   - DOMAIN-SUFFIX, hangame.com
   - OR, ((IP-CIDR,103.194.108.197/24,no-resolve), (IP-CIDR,103.194.108.199/24,no-resolve), (IP-CIDR,103.194.108.200/24,no-resolve))
   - DOMAIN-SUFFIX,so-net.tw
