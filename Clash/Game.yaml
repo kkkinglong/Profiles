@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,dutils.com
-  - DOMAIN-SUFFIX,fastly.steamstatic.com
+  - DOMAIN-SUFFIX,steamstatic.com
   - PROCESS-NAME,Diablo IV.exe
   - PROCESS-PATH,H:\SteamLibrary\steamapps\common\Diablo IV\Diablo IV.exe
   - PROCESS-NAME,GenshinImpact.exe

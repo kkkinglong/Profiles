@@ -2,7 +2,6 @@ payload:
 
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamusercontent.com
-  - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamserver.net
